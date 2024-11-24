@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web developement Projects
 - 📫 Reach me at mohanvamsi2206@gmail.com
-- 😄 Pronouns: He/Him
+- 👨🏻 Pronouns: He/Him
 - ⚡ Fun fact: I once turned a bug into a feature by calling it an "interactive surprise element" on my website! 😉
 
 <!---
