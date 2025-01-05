@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vamsi0074
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Web developement Projects
 - 📫 Reach me at mohanvamsi2206@gmail.com
 - 👨🏻 Pronouns: He/Him
